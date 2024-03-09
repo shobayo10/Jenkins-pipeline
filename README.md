@@ -165,3 +165,19 @@ jdbc:h2:mem:shopping_cart_db
 
 In `/src/main/resources/application.properties` file it is possible to change both
 web interface url path, as well as the datasource url.
+
+
+PART 2 - Ongoing 
+### DEVOPS PIPELINE FOR Deployment to K8
+
+Provisioning pipeline Servers
+Open Ports
+Connect To VMs
+Setup Jenkins, SonarQube & nexus
+Install Plugins & Configure Them
+Create Pipeline in Jenkins from scratch
+Setup K8 Cluster
+Deployment
+
+
+
