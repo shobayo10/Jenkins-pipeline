@@ -168,7 +168,7 @@ web interface url path, as well as the datasource url.
 
 
 PART 2 - Ongoing 
-### DEVOPS PIPELINE FOR Deployment to K8
+### DEVOPS PIPELINE FOR Deployment TO K8
 
 Provisioning pipeline Servers
 Open Ports
